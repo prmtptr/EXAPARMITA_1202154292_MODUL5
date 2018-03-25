@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EXAPARMITA_1202154292_MODUL5</string>
+    <string name="action_settings">Setting</string>
+    <item name="action_settings" type="id">action_settings</item>
+</resources>
